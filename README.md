@@ -146,10 +146,10 @@ plt.show()
 ### Training Loss, Validation Loss Vs Iteration Plot
 
 
-
 ### Original vs Noisy Vs Reconstructed Image
 
-![image](https://github.com/user-attachments/assets/16495805-1895-42bf-ba68-0a006c0e6228)
+![image](https://github.com/user-attachments/assets/07c8c715-d306-4db4-8217-43200928445f)
+
 
 
 
